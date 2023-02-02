@@ -1,0 +1,17 @@
+body{
+    background-color:gray;
+    margin:0;
+    padding:0;
+    position: absolute;
+    left: 550px;  
+    padding-top: 180px;          
+}
+   
+div{
+    background-color:gray ;
+}
+
+h1{
+    padding-left: 70px;
+    padding-top: 20px;
+}
